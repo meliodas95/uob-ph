@@ -4,7 +4,7 @@ export default function AboutContent() {
   return (
     <section className="py-16 bg-white">
       <div className="container mx-auto px-4">
-        <div className="max-w-4xl mx-auto">
+        <div className="max-w-7xl mx-auto">
           <h2 className="font-heading text-2xl md:text-3xl font-bold text-uob-red mb-6">
             {companyInfo.name}
           </h2>
